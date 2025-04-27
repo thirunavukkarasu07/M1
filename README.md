@@ -249,6 +249,10 @@ int main()
 
 ![Screenshot 2025-04-27 140103](https://github.com/user-attachments/assets/64ddd454-7602-49d2-bbaa-67e5f140c2bb)
 
+
+
+
+
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
 
